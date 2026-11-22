@@ -11,11 +11,13 @@ def home():
 <html lang="ru">
 <head>
     <meta charset="utf-8">
-    <title>Hello, world!</title>
+    <title>Ai Survey</title>
 </head>
 <body>
-    <h1>Hello, world!</h1>
-    <p>Это моя первая веб-страница на Python.</p>
+    <h1>опросник</h1>
+    <h2>очень ОЧЕНЬ важные слова</h2>
+    <p>крутой оч</p>
+    <p>крутой оч67</p>
 </body>
 </html>
 """
